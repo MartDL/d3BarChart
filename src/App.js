@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Making a Bar Chart in D3</h2>
+      <h2>Making a Bar Chart in D3.js</h2>
        <svg ref={svgRef} width="960" height="500">
       </svg>
     </div>
